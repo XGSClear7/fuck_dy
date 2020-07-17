@@ -139,6 +139,7 @@ def search(dy_id):
                     'share_qrcode_uri': share_qrcode_uri,
                     'nick_img': nick_img
                 }
+                # 返回准确的用户数据,如果要返回全部只保留user_list.append(result)
                 if unique_id != dy_id:
                     # print(uid, short_id, sec_uid, nickname, nick_img, signature, room_id_str)
                     user_list.append(result)
