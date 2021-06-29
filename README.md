@@ -1,4 +1,4 @@
-<a title="Hits" target="_blank" href="https://github.com/XGSClear7/hits"><img src="https://hits.b3log.org/XGSClear7/hits.svg"></a>
+<a title="Hits" target="_blank" href="https://github.com/XGSClear7/fuck_dy/hits"><img src="https://hits.b3log.org/XGSClear7/fuck_dy/hits.svg"></a>
 
 ### 特别的几个参数解密
 
